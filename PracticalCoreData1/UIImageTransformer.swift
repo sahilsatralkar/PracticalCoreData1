@@ -37,5 +37,7 @@ class UIImageTransformer : ValueTransformer {
         }
         
         //Testing github1
+        
+        //Testing commit from Branch2
     }
 }
